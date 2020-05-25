@@ -9965,189 +9965,189 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:884
 msgctxt "ResourceList,ActionRelease"
 msgid "Release into the Wild"
-msgstr ""
+msgstr "Relâcher dans la nature"
 
 #. Key:	ActionRename
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:868
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:868
 msgctxt "ResourceList,ActionRename"
 msgid "Rename"
-msgstr ""
+msgstr "Renommer"
 
 #. Key:	ActionSeduce
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:904
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:904
 msgctxt "ResourceList,ActionSeduce"
 msgid "Seduce"
-msgstr ""
+msgstr "Séduire"
 
 #. Key:	ActionSleep
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:861
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:861
 msgctxt "ResourceList,ActionSleep"
 msgid "Sleep"
-msgstr ""
+msgstr "Dormir"
 
 #. Key:	ActionSurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:927
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:927
 msgctxt "ResourceList,ActionSurpriseSex"
 msgid "Surprise Sex"
-msgstr ""
+msgstr "Sexe Surprise"
 
 #. Key:	SaveWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:19
 #: Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:19
 msgctxt "SaveMenu,SaveWindowTitle"
 msgid "Saved Games"
-msgstr ""
+msgstr "Parties sauvegardée"
 
 #. Key:	SlotPath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:29
 #: Source/Radiant/Public/UI/Menus/SexySaveMenu.cpp:29
 msgctxt "SaveMenu,SlotPath"
 msgid "Save Location"
-msgstr ""
+msgstr "Sauvegarder la l'emplacement"
 
 #. Key:	ErrorSavingGame
 #. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:276
 #: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:276
 msgctxt "SaveSystem,ErrorSavingGame"
 msgid "Error while trying to save."
-msgstr ""
+msgstr "Erreur en essayant de sauvegarder"
 
 #. Key:	SavedGame
 #. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:273
 #: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:273
 msgctxt "SaveSystem,SavedGame"
 msgid "Game successfully saved."
-msgstr ""
+msgstr "Partie sauvegardée avec succès"
 
 #. Key:	AllFutas
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,AllFutas"
 msgid "Only Futas"
-msgstr ""
+msgstr "Futas seulement"
 
 #. Key:	AllFutasHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,AllFutasHelp"
 msgid "With the exception of the breeders, all other characters are futas."
-msgstr ""
+msgstr "Avec pour exception l'éleveur, tous les autres personnages sont des futas"
 
 #. Key:	AudioTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:84
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:84
 msgctxt "SettingsMenu,AudioTitle"
 msgid "Sound"
-msgstr ""
+msgstr "Sons"
 
 #. Key:	AutoplayDialogue
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 msgctxt "SettingsMenu,AutoplayDialogue"
 msgid "Autoplay Dialogue"
-msgstr ""
+msgstr "Jouer les dialogues automatiquement"
 
 #. Key:	AutoplayDialogueHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:107
 msgctxt "SettingsMenu,AutoplayDialogueHelp"
 msgid "Automatically cycle through lines of dialogue without having to press next."
-msgstr ""
+msgstr "Parcourez automatiquement les lignes de dialogue sans avoir à appuyer sur suivant"
 
 #. Key:	AutoskipDialogue
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 msgctxt "SettingsMenu,AutoskipDialogue"
 msgid "Autoskip Dialogue"
-msgstr ""
+msgstr "Sauter les dialogues automatiquement"
 
 #. Key:	AutoskipDialogueHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 msgctxt "SettingsMenu,AutoskipDialogueHelp"
 msgid "Automatically skip to the last line of dialogue."
-msgstr ""
+msgstr "Passer automatiquement à la dernière ligne de dialogue"
 
 #. Key:	BodyComposition
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyComposition"
 msgid "Body Composition"
-msgstr ""
+msgstr "Composition corporelle"
 
 #. Key:	BodyCompositionHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyCompositionHelp"
 msgid "Makes all wild Nephelym bodies random, and allows you to change them via items."
-msgstr ""
+msgstr "Rend tous les corps sauvages de Nephelym aléatoires et vous permet de les changer via des objets"
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
 msgctxt "SettingsMenu,CameraControls"
 msgid "Camera"
-msgstr ""
+msgstr "Caméra"
 
 #. Key:	CameraPan
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:214
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:214
 msgctxt "SettingsMenu,CameraPan"
 msgid "Pan Rate"
-msgstr ""
+msgstr "Taux panoramique"
 
 #. Key:	CameraRotate
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:193
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:193
 msgctxt "SettingsMenu,CameraRotate"
 msgid "Rotate Rate"
-msgstr ""
+msgstr "Taux de rotation"
 
 #. Key:	CameraZoom
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:235
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:235
 msgctxt "SettingsMenu,CameraZoom"
 msgid "Zoom Rate"
-msgstr ""
+msgstr "Taux de zoom"
 
 #. Key:	CamShakeHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,CamShakeHelp"
 msgid "Camera will shake when large characters are nearby."
-msgstr ""
+msgstr "La caméra tremblera lorsque de gros personnages seront à proximité"
 
 #. Key:	CamShakeOption
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,CamShakeOption"
 msgid "Camera Shake"
-msgstr ""
+msgstr "Tremblement de caméra"
 
 #. Key:	CIHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
 msgctxt "SettingsMenu,CIHelp"
 msgid "Female body will swell in proportion to the amount of cum received."
-msgstr ""
+msgstr "Le corps de la femme gonflera proportionnellement à la quantité de sperme reçue"
 
 #. Key:	ControlsTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:74
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:74
 msgctxt "SettingsMenu,ControlsTitle"
 msgid "Controls"
-msgstr ""
+msgstr "Contrôles"
 
 #. Key:	CumInflation
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
 msgctxt "SettingsMenu,CumInflation"
 msgid "Cum Inflation"
-msgstr ""
+msgstr "Augmentation dû au sperme"
 
 #. Key:	DickSheath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:341
@@ -10161,873 +10161,873 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:410
 msgctxt "SettingsMenu,EffectsVolume"
 msgid "Effects"
-msgstr ""
+msgstr "Effets"
 
 #. Key:	FeralFemales
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
 msgctxt "SettingsMenu,FeralFemales"
 msgid "Exotic Females"
-msgstr ""
+msgstr "Femelles exotique"
 
 #. Key:	FeralFemalesHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:97
 msgctxt "SettingsMenu,FeralFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more monster than human. Males are always exotic."
-msgstr ""
+msgstr "Les femelles et les futas Nephelym peuvent avoir un trait qui modifie leur apparence pour être plus monstre qu'humain. Les mâles sont toujours exotiques"
 
 #. Key:	Futanari
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 msgctxt "SettingsMenu,Futanari"
 msgid "Futanari"
-msgstr ""
+msgstr "Futanari"
 
 #. Key:	FutanariHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 msgctxt "SettingsMenu,FutanariHelp"
 msgid "Female Nephelym and NPCs can have a fully functional dick."
-msgstr ""
+msgstr "Les Nephelyms femelle et les PNJ peuvent avoir une bite entièrement fonctionnelle"
 
 #. Key:	GameplayTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:54
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:54
 msgctxt "SettingsMenu,GameplayTitle"
 msgid "Gameplay"
-msgstr ""
+msgstr "Gameplay"
 
 #. Key:	GraphicsTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:64
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:64
 msgctxt "SettingsMenu,GraphicsTitle"
 msgid "Graphics"
-msgstr ""
+msgstr "Graphiques"
 
 #. Key:	HominalFemales
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
 msgctxt "SettingsMenu,HominalFemales"
 msgid "Hominal Females"
-msgstr ""
+msgstr "Femmes hominales"
 
 #. Key:	HominalFemalesHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:96
 msgctxt "SettingsMenu,HominalFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more human than monster."
-msgstr ""
+msgstr "Les Nephelyms femelle et futa peuvent avoir un trait qui modifie leur apparence pour être plus humain que le monstre"
 
 #. Key:	Hybrid
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 msgctxt "SettingsMenu,Hybrid"
 msgid "Hybrids"
-msgstr ""
+msgstr "Hybrides"
 
 #. Key:	HybridHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 msgctxt "SettingsMenu,HybridHelp"
 msgid "Unique variants can be produced that are a mix of each parent's race."
-msgstr ""
+msgstr "Des variantes uniques peuvent être produites qui sont un mélange de la race de chaque parent"
 
 #. Key:	KeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
 msgctxt "SettingsMenu,KeyBinds"
 msgid "Action Bindings"
-msgstr ""
+msgstr "Liaisons d'action"
 
 #. Key:	LangMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
 msgctxt "SettingsMenu,LangMode"
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #. Key:	LangTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:483
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:483
 msgctxt "SettingsMenu,LangTitle"
 msgid "Localization"
-msgstr ""
+msgstr "Localisation"
 
 #. Key:	MalesFutas
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 msgctxt "SettingsMenu,MalesFutas"
 msgid "All Males are Futas"
-msgstr ""
+msgstr "Tous les mâles sont des futas"
 
 #. Key:	MalesFutasHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 msgctxt "SettingsMenu,MalesFutasHelp"
 msgid "With the exception of the male breeder, all male Nephelym will be replaced with futas."
-msgstr ""
+msgstr "À l'exception de l'éleveur mâle, tous les Nephelym mâles seront remplacés par des futas"
 
 #. Key:	MasterVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
 msgctxt "SettingsMenu,MasterVolume"
 msgid "Master"
-msgstr ""
+msgstr "Maître"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
 msgctxt "SettingsMenu,MusicVolume"
 msgid "Music"
-msgstr ""
+msgstr "Musique"
 
 #. Key:	OptionsWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:36
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:36
 msgctxt "SettingsMenu,OptionsWindowTitle"
 msgid "Settings"
-msgstr ""
+msgstr "Options"
 
 #. Key:	PhysHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,PhysHelp"
 msgid "Simulate Breeder's jiggly bits, disable for performance gain. Restart required for full effect."
-msgstr ""
+msgstr "Simulez les génitales du Breeder, désactivez-les pour un gain de performances. Redémarrage requis pour un effet complet"
 
 #. Key:	PhysicsTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:355
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:355
 msgctxt "SettingsMenu,PhysicsTitle"
 msgid "Physics"
-msgstr ""
+msgstr "Physiques"
 
 #. Key:	PhysOption
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,PhysOption"
 msgid "Physics"
-msgstr ""
+msgstr "Physiques"
 
 #. Key:	Pregnancy
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,Pregnancy"
 msgid "Pregnancy"
-msgstr ""
+msgstr "Grossesse"
 
 #. Key:	PregnancyHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
 msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr ""
+msgstr "La femelle Nephelym prendra 4 jours pour invoquer sa progéniture, et le ventre se métamorphosera pour refléter cela. \n AVERTISSEMENT: Si vous désactivez cette option pendant le jeu, les grossesses existantes seront perdues"
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
 msgctxt "SettingsMenu,Quality"
 msgid "Overall Quality"
-msgstr ""
+msgstr "Qualité générale"
 
 #. Key:	RenderingFeatures
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
 msgctxt "SettingsMenu,RenderingFeatures"
 msgid "Rendering Features"
-msgstr ""
+msgstr "Fonctions de rendu"
 
 #. Key:	Resolution
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
 msgctxt "SettingsMenu,Resolution"
 msgid "Resolution"
-msgstr ""
+msgstr "Résolution"
 
 #. Key:	ScreenTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:274
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:274
 msgctxt "SettingsMenu,ScreenTitle"
 msgid "Screen"
-msgstr ""
+msgstr "Écran"
 
 #. Key:	SurpriseHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 msgctxt "SettingsMenu,SurpriseHelp"
 msgid "Allow consensual surprise sex."
-msgstr ""
+msgstr "Autoriser le sexe surprise consensuel"
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 msgctxt "SettingsMenu,SurpriseSex"
 msgid "Surprise Sex"
-msgstr ""
+msgstr "Sexe Surprise"
 
 #. Key:	ThemedFluids
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
 msgctxt "SettingsMenu,ThemedFluids"
 msgid "Racial Body Fluids"
-msgstr ""
+msgstr "Liquides corporel racial"
 
 #. Key:	ThemedFluidsHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:103
 msgctxt "SettingsMenu,ThemedFluidsHelp"
 msgid "Each race has unique colors for their body fluids. If disabled, human colors will be used."
-msgstr ""
+msgstr "Chaque race a des couleurs uniques pour ses fluides corporels. Si désactivé, les couleurs humaines seront utilisées"
 
 #. Key:	UITitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:94
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:94
 msgctxt "SettingsMenu,UITitle"
 msgid "UI"
-msgstr ""
+msgstr "IU"
 
 #. Key:	VocalsVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:431
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:431
 msgctxt "SettingsMenu,VocalsVolume"
 msgid "Vocals"
-msgstr ""
+msgstr "Chants"
 
 #. Key:	Volume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:376
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:376
 msgctxt "SettingsMenu,Volume"
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 #. Key:	WindowMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:286
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:286
 msgctxt "SettingsMenu,WindowMode"
 msgid "Window Mode"
-msgstr ""
+msgstr "Mode fenêtré"
 
 #. Key:	BuyPositionMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:908
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:908
 msgctxt "SexyTradeMenu,BuyPositionMessage"
 msgid "You will learn this sex position."
-msgstr ""
+msgstr "Vous apprendrez cette position sexuelle"
 
 #. Key:	CollapseGStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
 msgctxt "SSexyBreedingSetupMenu,CollapseGStats"
 msgid "Hide detailed stats for selected giver."
-msgstr ""
+msgstr "Masquer les stats détaillées du donateur sélectionné"
 
 #. Key:	CollapseRStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
 msgctxt "SSexyBreedingSetupMenu,CollapseRStats"
 msgid "Hide detailed stats for selected receiver."
-msgstr ""
+msgstr "Masquer les stats détaillées du receveur sélectionné"
 
 #. Key:	ExpandGStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
 msgctxt "SSexyBreedingSetupMenu,ExpandGStats"
 msgid "View detailed stats for selected giver."
-msgstr ""
+msgstr "Voir les stats détaillées du donateur sélectionné"
 
 #. Key:	ExpandRStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
 msgctxt "SSexyBreedingSetupMenu,ExpandRStats"
 msgid "View detailed stats for selected receiver."
-msgstr ""
+msgstr "Voir les stats détaillées du receveur sélectionné"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:239
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:239
 msgctxt "SSexyCharacterDetails,SpiritForm"
 msgid "Spirit Form"
-msgstr ""
+msgstr "Forme spirituelle"
 
 #. Key:	ExoticTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:46
 #: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:46
 msgctxt "SSexyCharacterGalleryControls,ExoticTooltip"
 msgid "Give this character its exotic trait if one exists."
-msgstr ""
+msgstr "Donner à ce personnage son caractère exotique s'il en existe un"
 
 #. Key:	HominalTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:35
 #: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:35
 msgctxt "SSexyCharacterGalleryControls,HominalTooltip"
 msgid "Give this character its hominal trait if one exists."
-msgstr ""
+msgstr "Donner à ce personnage son caractère hominal s'il en existe un"
 
 #. Key:	UsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterGalleryControls.cpp:57
 msgctxt "SSexyCharacterGalleryControls,UsrPresetTooltip"
 msgid "Load a preset for this character."
-msgstr ""
+msgstr "Charger un préréglage pour ce personnage"
 
 #. Key:	None
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyDropList.cpp:82
 #: Source/Radiant/Public/UI/Components/SexyDropList.cpp:82
 msgctxt "SSexyDropList,None"
 msgid "None"
-msgstr ""
+msgstr "Inéxistant"
 
 #. Key:	BackButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:56
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:56
 msgctxt "SSexyGalleryMenu,BackButtonTitle"
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #. Key:	BackButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:57
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:57
 msgctxt "SSexyGalleryMenu,BackButtonTooltip"
 msgid "Return to the creator."
-msgstr ""
+msgstr "Retourner au créateur"
 
 #. Key:	GiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:72
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:72
 msgctxt "SSexyGalleryMenu,GiverWindowTitle"
 msgid "Select Giver"
-msgstr ""
+msgstr "Selectionner le donneur"
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:107
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:107
 msgctxt "SSexyGalleryMenu,ReceiverWindowTitle"
 msgid "Select Receiver"
-msgstr ""
+msgstr "Selectionner le receveur"
 
 #. Key:	ViewButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:63
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:63
 msgctxt "SSexyGalleryMenu,ViewButtonTitle"
 msgid "View"
-msgstr ""
+msgstr "Voir"
 
 #. Key:	ViewButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:64
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:64
 msgctxt "SSexyGalleryMenu,ViewButtonTooltip"
 msgid "View the sex scene for the currently selected mates and options."
-msgstr ""
+msgstr "Voir la scene de sexe pour les partenaires et options actuel"
 
 #. Key:	ASOGMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:81
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:81
 msgctxt "SSexyGenericMenu,ASOGMessage"
 msgid "Special thanks to the following people:"
-msgstr ""
+msgstr "Remerciement spécial pour les personnes suivantes"
 
 #. Key:	ASOGWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:70
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:70
 msgctxt "SSexyGenericMenu,ASOGWindowTitle"
 msgid "Ancient Stone of Glory"
-msgstr ""
+msgstr "Ancienne pierre de gloire"
 
 #. Key:	FulfillButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:139
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:139
 msgctxt "SSexyGenericMenu,FulfillButton"
 msgid "Fulfill"
-msgstr ""
+msgstr "Remplir"
 
 #. Key:	FulfillButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:140
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:140
 msgctxt "SSexyGenericMenu,FulfillButtonTooltip"
 msgid "Accept the reward for this task."
-msgstr ""
+msgstr "Accepter la récompense pour cette tâche"
 
 #. Key:	TaskMonsterWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:149
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:149
 msgctxt "SSexyGenericMenu,TaskMonsterWindowTitle"
 msgid "Select Nephelym to Fulfill Task"
-msgstr ""
+msgstr "Selectionner un Nephelym pour remplir la tâche"
 
 #. Key:	TaskWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:98
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:98
 msgctxt "SSexyGenericMenu,TaskWindowTitle"
 msgid "Breeding Tasks"
-msgstr ""
+msgstr "Tâches de reproduction"
 
 #. Key:	TravelWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:55
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:55
 msgctxt "SSexyGenericMenu,TravelWindowTitle"
 msgid "Select Destination"
-msgstr ""
+msgstr "Selectionner une destination"
 
 #. Key:	BindButton
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
 #: Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
 msgctxt "SSexyKeyBind,BindButton"
 msgid "Bind"
-msgstr ""
+msgstr "Lier"
 
 #. Key:	BindKey
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:56
 #: Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:56
 msgctxt "SSexyKeyBind,BindKey"
 msgid "Press Key"
-msgstr ""
+msgstr "Appuyez sur une touche"
 
 #. Key:	CollapseStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:126
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:126
 msgctxt "SSexyMonsterMenu,CollapseStats"
 msgid "Hide detailed stats for selected Nephelym."
-msgstr ""
+msgstr "Cacher les stats détaillées du Nephelym sélectionné"
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:107
 msgctxt "SSexyMonsterMenu,ExpandStats"
 msgid "View detailed stats for selected Nephelym."
-msgstr ""
+msgstr "Voir les stats détaillées du Nephelym sélectionné"
 
 #. Key:	ManageWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
 msgctxt "SSexyRanchMenu,ManageWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #. Key:	ClearFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
 msgctxt "SSexyResourceList,ClearFilterTooltip"
 msgid "Clear all current filters."
-msgstr ""
+msgstr "Réinitialiser tous les filtres actuel"
 
 #. Key:	HarvestFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:117
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:117
 msgctxt "SSexyResourceList,HarvestFilterTooltip"
 msgid "Filter by harvest ability."
-msgstr ""
+msgstr "Filtrer par capacité de récolte"
 
 #. Key:	RaceFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:75
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:75
 msgctxt "SSexyResourceList,RaceFilterTooltip"
 msgid "Filter by race."
-msgstr ""
+msgstr "Filtrer par race"
 
 #. Key:	SexFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:89
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:89
 msgctxt "SSexyResourceList,SexFilterTooltip"
 msgid "Filter by sex."
-msgstr ""
+msgstr "Filtrer par sexe"
 
 #. Key:	SizeFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:103
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:103
 msgctxt "SSexyResourceList,SizeFilterTooltip"
 msgid "Filter by body size trait."
-msgstr ""
+msgstr "Filtrer par caractère de taille corporelle"
 
 #. Key:	StatsFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:131
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:131
 msgctxt "SSexyResourceList,StatsFilterTooltip"
 msgid "Filter by stats."
-msgstr ""
+msgstr "Filtrer par stats"
 
 #. Key:	Breeder
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
 msgctxt "SSexyRoamerMenu,Breeder"
 msgid "Breeder:"
-msgstr ""
+msgstr "Éleveur:"
 
 #. Key:	CatchButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
 msgctxt "SSexyRoamerMenu,CatchButton"
 msgid "Catch"
-msgstr ""
+msgstr "Attraper"
 
 #. Key:	CatchButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
 msgctxt "SSexyRoamerMenu,CatchButtonTooltip"
 msgid "Add this wild Nephelym to your collection."
-msgstr ""
+msgstr "Ajouter ce Nephelym à votre collection"
 
 #. Key:	CollapseStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 msgctxt "SSexyRoamerMenu,CollapseStats"
 msgid "Hide detailed stats for this wild Nephelym."
-msgstr ""
+msgstr "Cacher les stats détaillée de ce Nephelym sauvage"
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 msgctxt "SSexyRoamerMenu,ExpandStats"
 msgid "View detailed stats for this wild Nephelym."
-msgstr ""
+msgstr "Voir les stats détaillée de ce Nephelym sauvage"
 
 #. Key:	ItemWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
 msgctxt "SSexyRoamerMenu,ItemWindowTitle"
 msgid "Give Fluid"
-msgstr ""
+msgstr "Donner du liquide"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
 msgctxt "SSexyRoamerMenu,LeaveButton"
 msgid "Leave"
-msgstr ""
+msgstr "Quitter"
 
 #. Key:	LeaveButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 msgctxt "SSexyRoamerMenu,LeaveButtonTooltip"
 msgid "Leave this wild Nephelym alone."
-msgstr ""
+msgstr "Laisser ce Nephelym sauvage tranquille"
 
 #. Key:	Nephelym
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 msgctxt "SSexyRoamerMenu,Nephelym"
 msgid "Nephelym:"
-msgstr ""
+msgstr "Nephelym:"
 
 #. Key:	RBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 msgctxt "SSexyRoamerMenu,RBJ"
 msgid "Spontaneous Blow Job!"
-msgstr ""
+msgstr "Fellation spontanée!"
 
 #. Key:	ResistMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr ""
+msgstr "Clique rapidement pour resister à l'orgasme"
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 msgctxt "SSexyRoamerMenu,RoamerWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 msgctxt "SSexyRoamerMenu,SurpriseSex"
 msgid "Surprise Sex!"
-msgstr ""
+msgstr "Sexe Surprise!"
 
 #. Key:	TaskRBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,TaskRBJ"
 msgid "Let her work her wonder."
-msgstr ""
+msgstr "Laisse-la faire ce qu'elle veux"
 
 #. Key:	CheatFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
 msgctxt "SSexySettingsMenu,CheatFavor"
 msgid "Added 1,000 favor."
-msgstr ""
+msgstr "1,000 de faveur ajouté"
 
 #. Key:	CheatFluids
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
 msgctxt "SSexySettingsMenu,CheatFluids"
 msgid "All fluids maxed."
-msgstr ""
+msgstr "Tous les fluides sont au maximum"
 
 #. Key:	CheatLust
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
 msgctxt "SSexySettingsMenu,CheatLust"
 msgid "Everyone has infinite lust."
-msgstr ""
+msgstr "Tout le monde a de la luxure infini"
 
 #. Key:	CheatMoney
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
 msgctxt "SSexySettingsMenu,CheatMoney"
 msgid "Added 1,000,000 orgasium."
-msgstr ""
+msgstr "1,000,000 d'orgasium ajouté"
 
 #. Key:	CheatPortals
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
 msgctxt "SSexySettingsMenu,CheatPortals"
 msgid "All pussy portals activated."
-msgstr ""
+msgstr "Tous les portail vagin ont été activé"
 
 #. Key:	CheatRanch
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
 msgctxt "SSexySettingsMenu,CheatRanch"
 msgid "All barns added to ranch."
-msgstr ""
+msgstr "Toutes les granges ont été ajouté au ranch"
 
 #. Key:	CheatRemove
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
 msgctxt "SSexySettingsMenu,CheatRemove"
 msgid "All cheats removed."
-msgstr ""
+msgstr "Tous les codes de triche ont été retiré"
 
 #. Key:	CheatSpirit
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
 msgctxt "SSexySettingsMenu,CheatSpirit"
 msgid "You now have infinite spirit."
-msgstr ""
+msgstr "Vous avez désormais de l'esprit infini"
 
 #. Key:	CheatSurprise
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
 msgctxt "SSexySettingsMenu,CheatSurprise"
 msgid "You will always win surprise sex."
-msgstr ""
+msgstr "Vous gagnerez toujours les sexes surprise"
 
 #. Key:	CheatTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
 msgctxt "SSexySettingsMenu,CheatTitle"
 msgid "Cheats"
-msgstr ""
+msgstr "Codes de triche"
 
 #. Key:	CheatTraitLvl
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
 msgctxt "SSexySettingsMenu,CheatTraitLvl"
 msgid "Trait level is maxed."
-msgstr ""
+msgstr "le niveau de caractère est au maximum"
 
 #. Key:	CreatorMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:828
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:828
 msgctxt "SSexySettingsMenu,CreatorMode"
 msgid "Creator mode activated."
-msgstr ""
+msgstr "Mode créateur activé"
 
 #. Key:	DefaultKeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
 msgctxt "SSexySettingsMenu,DefaultKeyBinds"
 msgid "Reset Defaults"
-msgstr ""
+msgstr "Réinitialiser la valeur par défaut"
 
 #. Key:	DialogueTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
 msgctxt "SSexySettingsMenu,DialogueTitle"
 msgid "Dialogue"
-msgstr ""
+msgstr "Dialoguer"
 
 #. Key:	EnterButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
 msgctxt "SSexySettingsMenu,EnterButton"
 msgid "Enter"
-msgstr ""
+msgstr "Entrer"
 
 #. Key:	FemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:844
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:844
 msgctxt "SSexySettingsMenu,FemG"
 msgid "Futas use SS FemG."
-msgstr ""
+msgstr "Les futas utilisent SS FemG"
 
 #. Key:	FetishTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
 msgctxt "SSexySettingsMenu,FetishTitle"
 msgid "Fetish"
-msgstr ""
+msgstr "Fétiche"
 
 #. Key:	NFemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:848
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:848
 msgctxt "SSexySettingsMenu,NFemG"
 msgid "Futas use SS TG."
-msgstr ""
+msgstr "Les futas utilisent SS TG"
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 #: Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 msgctxt "SSexySexPositionDetails,SizePairs"
 msgid "Pairs with Scene"
-msgstr ""
+msgstr "Couplement par scène"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
 #: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
 msgctxt "SSexyTaskGridItem,Null"
 msgid "Null"
-msgstr ""
+msgstr "Inéxistant"
 
 #. Key:	FavorTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
 msgctxt "SSexyTradeMenu,FavorTitle"
 msgid "Confirm Exchange"
-msgstr ""
+msgstr "Confirmer l'échange"
 
 #. Key:	FinalFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
 msgctxt "SSexyTradeMenu,FinalFavor"
 msgid "Favor gained:"
-msgstr ""
+msgstr "Faveur gagné:"
 
 #. Key:	PositionDescription
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
 msgctxt "SSexyTradeMenu,PositionDescription"
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #. Key:	PurchaseTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 msgctxt "SSexyTradeMenu,PurchaseTitle"
 msgid "Confirm Purchase"
-msgstr ""
+msgstr "Confirmer l'achat"
 
 #. Key:	SaleTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 msgctxt "SSexyTradeMenu,SaleTitle"
 msgid "Confirm Sale"
-msgstr ""
+msgstr "Confirmer la vente"
 
 #. Key:	SellMonsterMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
 msgctxt "SSexyTradeMenu,SellMonsterMessage"
 msgid "Ascend this one and gain favor?"
-msgstr ""
+msgstr "Élever celle-là et gagner de la faveur"
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:175
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:175
 msgctxt "TaskBoard,Activate"
 msgid "Check Breeding Tasks"
-msgstr ""
+msgstr "Vérifier les tâches de reproduction"
 
 #. Key:	BuyFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
 msgctxt "TradeMenu,BuyFunds"
 msgid "Her funds:"
-msgstr ""
+msgstr "Ses fonds:"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
 msgctxt "TradeMenu,HarvestButton"
 msgid "Harvest"
-msgstr ""
+msgstr "Récolter"
 
 #. Key:	ItemsButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
 msgctxt "TradeMenu,ItemsButton"
 msgid "Items"
-msgstr ""
+msgstr "Objets"
 
 #. Key:	SellFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
 msgctxt "TradeMenu,SellFunds"
 msgid "Your funds:"
-msgstr ""
+msgstr "Tes fonds:"
 
 #. Key:	UpgradeDescription
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
 msgctxt "TradeMenu,UpgradeDescription"
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 msgctxt "UtilityMenu,HarvestButton"
 msgid "Harvest"
-msgstr ""
+msgstr "Récolter"
 
 #. Key:	InventoryWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
 msgctxt "UtilityMenu,InventoryWindowTitle"
 msgid "Ranch Inventory"
-msgstr ""
+msgstr "Inventaire du ranch"
 
 #. Key:	ActivateAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:327
 #: Source/Radiant/Public/UI/SexyInterface.cpp:327
 msgctxt "WorldAction,ActivateAction"
 msgid "Activate"
-msgstr ""
+msgstr "Activer"
 
 #. Key:	ActivateDazeShrine
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:333
 #: Source/Radiant/Public/UI/SexyInterface.cpp:333
 msgctxt "WorldAction,ActivateDazeShrine"
 msgid "Commune with the Reaper"
-msgstr ""
+msgstr "Communier avec la faucheuse"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:321
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
-msgstr ""
+msgstr "Configuration de la session de reproduction"
 
 #. Key:	InteractAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:336
 #: Source/Radiant/Public/UI/SexyInterface.cpp:336
 msgctxt "WorldAction,InteractAction"
 msgid "Interact"
-msgstr ""
+msgstr "Intéragir"
 
 #. Key:	ManageRanch
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:318
 #: Source/Radiant/Public/UI/SexyInterface.cpp:318
 msgctxt "WorldAction,ManageRanch"
 msgid "Manage Ranch"
-msgstr ""
+msgstr "Gérer le ranch"
 
 #. Key:	TalkAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:324
 #: Source/Radiant/Public/UI/SexyInterface.cpp:324
 msgctxt "WorldAction,TalkAction"
 msgid "Talk"
-msgstr ""
+msgstr "Parler"
 
 #. Key:	TraverseAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:330
 #: Source/Radiant/Public/UI/SexyInterface.cpp:330
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
-msgstr ""
+msgstr "Traverser le portail"
 
